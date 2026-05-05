@@ -1,1 +1,1 @@
-# AERIS: Attention-Entropy Residue-Indexed Smoothing for Lightweight Protein Structure Refinement
+# AERIS: Attention-Entropy Residue Smoothing for Lightweight Protein Structure Refinement
