@@ -1,2 +1,1 @@
-# BoltzRefine
-Structure refinement of Boltz-2-produced protein structures using Protein Language Models' Attention Entropy
+# AERIS: Attention-Entropy Residue-Indexed Smoothing for Lightweight Protein Structure Refinement
